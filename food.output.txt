@@ -1,0 +1,18 @@
+Quantity purchased: 11
+ Cost: burger: $7.60 fries: $14.00 sandwich: $38.00 salad: $40.00
+Total with tax (8%) and tip (18%): $125.50
+Quantity purchased: 5
+ Cost: calamari: €4.00 pasta: €7.00 risotto: €8.50 pizza: €9.00
+Total with tax (22%): €34.77
+Quantity purchased: 16
+ Cost: ramen: ¥8400 sushi: ¥2400 udon: ¥0 gyoza: ¥0
+Total with tax (8%): ¥11664
+Quantity purchased: 0
+ Cost: hotteok: ₩0 gimbap: ₩0 tteokbokki: ₩0 odeng: ₩0
+Total with tax (10%): 0
+Quantity purchased: 6
+ Cost: hotteok: ₩1500 gimbap: ₩15000 tteokbokki: ₩0 odeng: ₩0
+Total with tax (10%): 18150
+Quantity purchased: 11
+ Cost: roti: $20 tandoori: $360 korma: $450 naan: $60
+Total with tax (12%) and tip (10%): $1086
